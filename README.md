@@ -7,7 +7,9 @@ A program to manage Cricket tournament. Scoreboard updating also available.
 PROJECT CONTRUBUTORS:
 
 Rajasooriya M.R.R.B - github.com/Wonkiee
+
 Ranawella R.L.K - github.com/kavin256
+
 Wickramanayake D.L -
 
 
